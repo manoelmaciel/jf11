@@ -1,0 +1,56 @@
+16:21 16/08/2016
+
+	Iniciando ...
+		
+		"Péssima ideia, a de que não se pode mudar"
+
+					— Montaigne
+
+	3.1 - Declarando e usando variáveis 
+
+		int
+		double
+		boolean
+		char
+		
+
+	3.2 - Tipos primitivos e valores 
+
+		...
+
+		Outros tipos primitivos
+
+			byte, short, long e float;
+
+
+	3.3 - Exercícios: Variáveis e tipos primitivos 
+
+
+		Balanço Trimestral;
+	
+
+	3.4 - Discussão em aula: convenções de código e código legível 
+
+		Java Code Convetions
+
+		http://galluzzo.com.br/?p=113
+
+			Fraquinho ... Eu achei!
+
+		
+
+	3.5 - Casting e promoção 
+
+		... 
+
+	3.6 - O if e o else 	
+
+		...
+
+		O maior de três números ... Errei isso várias vezes!
+
+		E ainda não saiu ... Estudar mais! (22:24 16/08/2016)
+
+
+			
+
