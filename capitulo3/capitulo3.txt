@@ -1,6 +1,8 @@
 16:21 16/08/2016
 
-	Iniciando ...
+	Capítulo 3 
+
+	  Variáveis primitivas e Controle de fluxo
 		
 		"Péssima ideia, a de que não se pode mudar"
 
@@ -10,8 +12,8 @@
 
 		int
 		double
-		boolean
-		char
+		boolean (true/false - só)
+		char (um caractere entre aspas simples)
 		
 
 	3.2 - Tipos primitivos e valores 
@@ -37,5 +39,35 @@
 
 			Fraquinho ... !
 
-		
+	3.5 - Casting e promoção 
 
+		... 
+
+	3.6 - O if e o else 	
+
+		...
+
+		O maior de três números ... Errei isso várias vezes!
+
+		E ainda não saiu ... Estudar mais! (22:24 16/08/2016)
+
+		Saiu ... Mas, meia boca! (19:12 17/08/2016)
+
+		Preciso estudar ainda mais isso ... 19:54!
+
+
+	3.7 - O While 
+
+		while.java ... 
+
+			Será que aceita? Sim.
+
+		ComandoWhile!
+
+
+
+	3.8 - O For 
+
+		for.java ...
+
+		ComandoFor!
