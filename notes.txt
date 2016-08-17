@@ -51,6 +51,12 @@
 
 		E ainda não saiu ... Estudar mais! (22:24 16/08/2016)
 
+	3.7 - O While 
+
+		while.java ... Será que aceita!
+
+
+
 
 			
 
