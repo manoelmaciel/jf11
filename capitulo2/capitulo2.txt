@@ -3,7 +3,7 @@
 	Não importa o nome do arquivo ...
 	
 		O que importa é nome da classe.
-		Ele criará o arquivo de ByteCode;
-		com o nome da classe declarada dentro do arquivo.
+		Ele criará o arquivo de ByteCode,
+		  com o nome da classe declarada dentro do arquivo.
 
 	Muito bem entendido!

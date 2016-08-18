@@ -2,17 +2,17 @@ public class MaiorTresNumeros {
 
 	public static void main(String[] args) {
 
-		int a=5, b=10, c=25;
+		int a=15, b=10, c=17
 		int MaiorTres = 0;
 		char variavel = 'z';
 		if (a==b && b==c) { 
 		  System.out.println("Tudo igual ... a = b = c = " + a + "!"); 
 		} else {
-		  if (c>b && c>a) {
+		  if (a<b && b<c) {
 			MaiorTres = c;
 			variavel = 'c';
 		  } else {
-		  if (a>b && a>c) {
+		  if (a>b) {
 			MaiorTres = a;
 			variavel = 'a';
 			} else {

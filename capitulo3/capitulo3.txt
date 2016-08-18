@@ -8,36 +8,72 @@
 
 					— Montaigne
 
+	Aprenderemos a trabalhar com os seguintes recursos da linguagem Java:
+	  • declaração, atribuição de valores, casting e comparação de variáveis;
+	  • controle de fluxo através de if e else;
+	  • instruções de laço for e while, controle de fluxo com break e continue.
+
 	3.1 - Declarando e usando variáveis 
 
 		int
 		double
 		boolean (true/false - só)
-		char (um caractere entre aspas simples)
+		char (um caractere entre aspas simples: 'a')
 		
+
+	      Atribuiçao de valores
+
+		= (sinal de igual)
+
+		int idade = 15;
+
+		Isso equivale a: 
+
+		  A partir de agora ... 
+		  A variável idade existe, e é do tipo inteiro.
+		  E ainda, o seu valor é quinze.
+
+	      Comentários em Java
+
+		//
+
+		/* */
+		
+	      Operadores para operar com números ...
+
+		+  soma, 
+		-  subtração, 
+		/  divisão, e 
+		*  multiplicação, e ainda 
+		%  o resto da divisão inteira!
+
+	      Como rodar esses códigos?
 
 	3.2 - Tipos primitivos e valores 
 
-		...
+	      ...
 
-		Outros tipos primitivos
+	      Outros tipos primitivos
 
-			byte, short, long e float;
+		byte, short, long e float;
 
 
 	3.3 - Exercícios: Variáveis e tipos primitivos 
 
-
-		Balanço Trimestral;
+	      Balanço Trimestral;
 	
 
 	3.4 - Discussão em aula: convenções de código e código legível 
 
-		Java Code Convetions
+	      Java Code Convetions
 
 		http://galluzzo.com.br/?p=113
 
-			Fraquinho ... !
+		  Fraquinho ... !
+
+		http://www.linhadecodigo.com.br/artigo/865/convencoes-de-codigo-java.aspx
+
+		  Melhorzinho ... !
 
 	3.5 - Casting e promoção 
 
@@ -53,8 +89,9 @@
 
 		Saiu ... Mas, meia boca! (19:12 17/08/2016)
 
-		Preciso estudar ainda mais isso ... 19:54!
+		Preciso estudar ainda mais isso ... 19:54. Está incompleto!
 
+		...
 
 	3.7 - O While 
 
@@ -71,3 +108,5 @@
 		for.java ...
 
 		ComandoFor!
+
+
