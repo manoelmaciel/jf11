@@ -110,4 +110,40 @@
 
 		ComandoFor!
 
+	3.9 - Controlando loops 
+
+		break & continue
+
+
+	3.10 - Escopo das variáveis 
+
+		Até onde se pode alcançar ... Ou acessar!
+	
+
+	3.11 - Um bloco dentro do outro 
+
+		Aninhamento 
+
+
+	3.12 - Para saber mais 
+
+	       1. Vimos apenas os comandos mais usados para controle de fluxo. O Java ainda possui o do..while e o switch. 
+		  Pesquise sobre eles e diga quando é interessante usar cada um deles.
+
+	       2. Algumas vezes, temos vários laços encadeados. Podemos utilizar o break para quebrar o laço mais interno. 
+		  Mas, se quisermos quebrar um laço mais externo, teremos de encadear diversos ifs e seu código ficará uma bagunça. 
+		  O Java possui um artifício chamado labeled loops; pesquise sobre eles.
+
+	       3. O que acontece se você tentar dividir um número inteiro por 0? E por 0.0?
+
+	       4. Existe um caminho entre os tipos primitivos que indicam se há a necessidade ou não de casting entre os tipos. 
+		  Por exemplo, int -> long -> double (um int pode ser tratado como um double, mas não o contrário). Pesquise (ou teste), 
+		  e posicione os outros tipos primitivos nesse fluxo.
+
+	       5. Além dos operadores de incremento, existem os de decremento, como --i e i--. Além desses, 
+		  você pode usar instruções do tipo i += x e i -= x, o que essas instruções fazem? Teste.
+
+
+	3.13 - Exercícios
+
 
