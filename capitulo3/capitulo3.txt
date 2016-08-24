@@ -1,27 +1,28 @@
-16:21 16/08/2016
+ï»¿16:21 16/08/2016
 
-	Capítulo 3 
+	CapÃ­tulo 3 
 
-	  Variáveis primitivas e Controle de fluxo
+	  VariÃ¡veis primitivas e Controle de fluxo
 		
-		"Péssima ideia, a de que não se pode mudar"
+		"PÃ©ssima ideia, a de que nÃ£o se pode mudar"
 
-					— Montaigne
+					â€” Montaigne
 
 	Aprenderemos a trabalhar com os seguintes recursos da linguagem Java:
-	  • declaração, atribuição de valores, casting e comparação de variáveis;
-	  • controle de fluxo através de if e else;
-	  • instruções de laço for e while, controle de fluxo com break e continue.
 
-	3.1 - Declarando e usando variáveis 
+	  â€¢ declaraÃ§Ã£o, atribuiÃ§Ã£o de valores, casting e comparaÃ§Ã£o de variÃ¡veis;
+	  â€¢ controle de fluxo atravÃ©s de if e else;
+	  â€¢ instruÃ§Ãµes de laÃ§o for e while, controle de fluxo com break e continue.
+
+	3.1 - Declarando e usando variÃ¡veis 
 
 		int
 		double
-		boolean (true/false - só)
+		boolean (true/false - sÃ³)
 		char (um caractere entre aspas simples: 'a')
 		
 
-	      Atribuiçao de valores
+	      AtribuiÃ§ao de valores
 
 		= (sinal de igual)
 
@@ -30,24 +31,24 @@
 		Isso equivale a: 
 
 		  A partir de agora ... 
-		  A variável idade existe, e é do tipo inteiro.
-		  E ainda, o seu valor é quinze.
+		  A variÃ¡vel idade existe, e Ã© do tipo inteiro.
+		  E ainda, o seu valor Ã© quinze.
 
-	      Comentários em Java
+	      ComentÃ¡rios em Java
 
 		//
 
 		/* */
 		
-	      Operadores para operar com números ...
+	      Operadores para operar com nÃºmeros ...
 
 		+  soma, 
-		-  subtração, 
-		/  divisão, e 
-		*  multiplicação, e ainda 
-		%  o resto da divisão inteira!
+		-  subtraÃ§Ã£o, 
+		/  divisÃ£o, e 
+		*  multiplicaÃ§Ã£o, e ainda 
+		%  o resto da divisÃ£o inteira!
 
-	      Como rodar esses códigos?
+	      Como rodar esses cÃ³digos?
 
 	3.2 - Tipos primitivos e valores 
 
@@ -58,12 +59,12 @@
 		byte, short, long e float;
 
 
-	3.3 - Exercícios: Variáveis e tipos primitivos 
+	3.3 - ExercÃ­cios: VariÃ¡veis e tipos primitivos 
 
-	      Balanço Trimestral;
+	      BalanÃ§o Trimestral;
 	
 
-	3.4 - Discussão em aula: convenções de código e código legível 
+	3.4 - DiscussÃ£o em aula: convenÃ§Ãµes de cÃ³digo e cÃ³digo legÃ­vel 
 
 	      Java Code Convetions
 
@@ -75,7 +76,7 @@
 
 		  Melhorzinho ... !
 
-	3.5 - Casting e promoção 
+	3.5 - Casting e promoÃ§Ã£o 
 
 		... 
 
@@ -83,13 +84,13 @@
 
 		...
 
-		O maior de três números ... Errei isso várias vezes!
+		O maior de trÃªs nÃºmeros ... Errei isso vÃ¡rias vezes!
 
-		E ainda não saiu ... Estudar mais! (22:24 16/08/2016)
+		E ainda nÃ£o saiu ... Estudar mais! (22:24 16/08/2016)
 
 		Saiu ... Mas, meia boca! (19:12 17/08/2016)
 
-		Preciso estudar ainda mais isso ... 19:54. Está incompleto!
+		Preciso estudar ainda mais isso ... 19:54. EstÃ¡ incompleto!
 
 		...
 
@@ -97,7 +98,7 @@
 
 		while.java ... 
 
-			Será que aceita? Sim.
+			SerÃ¡ que aceita? Sim.
 
 		ComandoWhile!
 
